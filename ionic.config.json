@@ -1,0 +1,8 @@
+{
+  "name": "Recetas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "48a283cf"
+}
